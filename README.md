@@ -4,6 +4,10 @@ Docker Compose for Wordpress, Maria/MySQL & phpMyAdmin.
 
 ## Installation
 
+```sh
+docker-compose up
+```
+
 **Optional:** Copy the ```.env.example``` file to a local ```.env``` and ensure all the settings are correct for your local environment.
 
 ## Usage
